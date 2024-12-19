@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 # How to run the project?
 
-but first check in the package.json folder if vite is installed, if not, run the command: "npm install vite --save-dev"
+But first check in the package.json folder if vite is installed, if not, run the command: "npm install vite --save-dev"
 "npm run dev"
